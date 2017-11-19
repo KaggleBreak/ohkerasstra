@@ -5,7 +5,7 @@
 * 캐글뽀개기 : https://www.facebook.com/groups/kagglebreak/
 * 바벨피쉬 : https://www.facebook.com/groups/KerasKorea/
 
-* 구글드라이브 스케줄 : https://docs.google.com/spreadsheets/d/14bS0Vum6MZKB01jMmQPZsdx0jUZIln9u_gcYwzret5Y/edit#gid=0
+* 구글드라이브 스케줄 : https://docs.google.com/spreadsheets/d/14bS0Vum6MZKB01jMmQPZsdx0jUZIln9u_gcYwzret5Y/edit?usp=drive_web
 * 장소 : 토즈 강남2호점
 * 파트1은 격주 토요일 오전 (10시 ~ 오후 1시)
 

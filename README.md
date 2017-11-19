@@ -3,7 +3,7 @@
 오케라스트라 (캐글뽀개기X케라스코리아) 파트1 주말반 격주 스터디 자료모음
 
 * 캐글뽀개기 : https://www.facebook.com/groups/kagglebreak/
-* 바벨피쉬 : https://www.facebook.com/groups/KerasKorea/
+* 케라스 코리아 : https://www.facebook.com/groups/KerasKorea/
 
 * 구글드라이브 스케줄 : https://docs.google.com/spreadsheets/d/14bS0Vum6MZKB01jMmQPZsdx0jUZIln9u_gcYwzret5Y/edit?usp=drive_web
 * 장소 : 신촌 또는 홍대입구 토즈점

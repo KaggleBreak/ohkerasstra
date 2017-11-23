@@ -12,7 +12,8 @@
 ## 교재
 * (안드로이드 기초) 안드로이드 프로그래밍 (http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791187370789&orderClick=LAH&Kc=))
 * (케라스 기초) 블록과 함께하는 파이썬 딥러닝 케라스 (http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960882133&orderClick=LEB&Kc=)
-* (참고 자료) 딥러닝 논문 리뷰
+* (딥러닝 이론) 페이퍼 읽고 리뷰하기 (https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+* (참고자료) https://github.com/fchollet/keras-resources
 
 
 ## Part1 커리큘럼

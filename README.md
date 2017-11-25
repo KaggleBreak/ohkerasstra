@@ -19,7 +19,7 @@
 ## Part1 커리큘럼
 |요일   |주제   |발표자   |발표자료   |
 |---|---|---|---|
-|2017.11.25(토)|(기초) 파이썬 문법 및 케라스 설치 |송치성||
+|2017.11.25(토)|(기초) 파이썬 문법 및 케라스 설치 |송치성|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/python/python_basic-master/python_tutorial_AtoP.ipynb)|
 ||(android) 01 안드로이드란?  |김승욱|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/android/chap1/OKarastra_Android_ch01_%EA%B9%80%EC%8A%B9%EC%9A%B1_171125.pptx)|
 ||(keras) Part 1 케라스 시작하기 |이상열|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/keras/01.start/01._keras%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.ipynb)|
 |2017.12.08(토)|(keras) Part 2 딥러닝 개념잡기 (1) |||

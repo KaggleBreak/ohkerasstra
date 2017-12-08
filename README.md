@@ -23,8 +23,8 @@
 ||(android) 01 안드로이드란?  |김승욱|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/android/chap1/OKarastra_Android_ch01_%EA%B9%80%EC%8A%B9%EC%9A%B1_171125.pptx)|
 ||(keras) Part 1 케라스 시작하기 |이상열|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/keras/01.start/01._keras%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.ipynb)|
 |2017.12.08(토)|(keras) Part 2 딥러닝 개념잡기 (1) |김동환||
-||(android) 02 개발 환경 구축하기 & 03 첫 번째 앱 만들기  |조은지||
-||(딥러닝 이론) 논문 리뷰 |김영범||
+||(android) 02 개발 환경 구축하기 & 03 첫 번째 앱 만들기  |조은지|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/android/chap2/OKarastra_Android_ch02_%EC%A1%B0%EC%9D%80%EC%A7%80_171209.pptx)|
+||(딥러닝 이론) 논문 리뷰 |김영범|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/deeplearning/study2/NatureDeepReview.pdf)|
 |2017.12.23(토)|(keras) Part 2 딥러닝 개념잡기 (2) |||
 ||(Android) 04 안드로이드 프로젝트와 개발 도구   |||
 ||(딥러닝 이론) 논문 리뷰 |||

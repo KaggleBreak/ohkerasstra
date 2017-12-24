@@ -26,5 +26,9 @@
 ||(android) 02 개발 환경 구축하기 & 03 첫 번째 앱 만들기  |조은지|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/android/chap2/OKarastra_Android_ch02_%EC%A1%B0%EC%9D%80%EC%A7%80_171209.pptx)|
 ||(딥러닝 이론) 논문 리뷰 |김영범|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/deeplearning/study2/NatureDeepReview.pdf)|
 |2017.12.23(토)|(keras) Part 2 딥러닝 개념잡기 (2) |이상열|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/keras/02.concept/02._keras%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0.ipynb)|
-||(Android) 04 안드로이드 프로젝트와 개발 도구   |||
-||(딥러닝 이론) 논문 리뷰 |||
+||(Android) 04 안드로이드 프로젝트와 개발 도구   |이현성|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/android/chap3/OKarastra_Android_ch03_%EC%9D%B4%ED%98%84%EC%84%B1_171223.pptx)|
+||(딥러닝 이론) 논문 리뷰 |김승욱||
+|2017.01.06(토)|(Keras) Part 3 레이어 개념잡기 (1) |이상열||
+||(Android) 실습 시간   |이현성||
+||(딥러닝 이론) 논문 리뷰 |김승욱||
+

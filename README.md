@@ -30,8 +30,8 @@
 ||(딥러닝 이론) 논문 리뷰 |김승욱||
 |2017.01.06(토)|(Keras) Part 3 레이어 개념잡기 (1) |이상열|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/keras/03.layer/03_%EB%A0%88%EC%9D%B4%EC%96%B4%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0_1.ipynb)|
 ||(Android) 실습 시간   |이현성||
-||(딥러닝 이론) 논문 리뷰 |김승욱||
-|2017.01.20(토)|(Keras) Part 3 레이어 개념잡기 (2) |||
-||(Android) 05 앱 장터, Play 스토어에 앱 등록하기    |||
+||(딥러닝 이론) 논문 리뷰 |김승욱|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/deeplearning/study4/OKarastra_thesis_3rd_%EA%B9%80%EC%8A%B9%EC%9A%B1_180106.pptx)|
+|2017.01.20(토)|(Keras) Part 3 레이어 개념잡기 (2) |김승욱||
+~~||(Android) 05 앱 장터, Play 스토어에 앱 등록하기    |||~~
 ||(딥러닝 이론) 로드맵 논문 리뷰 |김주영||
 ||(딥러닝 이론) 로드맵 논문 리뷰 |설아라||

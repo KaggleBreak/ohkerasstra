@@ -33,4 +33,4 @@
 ||(딥러닝 이론) 논문 리뷰 |김승욱|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/deeplearning/study4/OKarastra_thesis_3rd_%EA%B9%80%EC%8A%B9%EC%9A%B1_180106.pptx)|
 |2017.01.20(토)|(Keras) Part 3 레이어 개념잡기 (2) |김승욱||
 ||(딥러닝 이론) 로드맵 논문 리뷰 |김주영||
-||(딥러닝 이론) 로드맵 논문 리뷰 |설아라||
+||(딥러닝 이론) 로드맵 논문 리뷰 |설아라|[발표자료](https://github.com/KaggleBreak/ohkerasstra/tree/master/deeplearning/study5)|

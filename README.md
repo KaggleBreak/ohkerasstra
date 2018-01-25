@@ -32,5 +32,8 @@
 ||(Android) 실습 시간   |이현성|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/android/4_training/%EC%98%A4%EC%BC%80%EB%9D%BC%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%8B%A4%EC%8A%B5.pptx)|
 ||(딥러닝 이론) 논문 리뷰 |김승욱|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/deeplearning/study4/OKarastra_thesis_3rd_%EA%B9%80%EC%8A%B9%EC%9A%B1_180106.pptx)|
 |2017.01.20(토)|(Keras) Part 3 레이어 개념잡기 (2) |김승욱||
-||(딥러닝 이론) 로드맵 논문 리뷰 |김주영||
 ||(딥러닝 이론) 로드맵 논문 리뷰 |설아라|[발표자료](https://github.com/KaggleBreak/ohkerasstra/tree/master/deeplearning/study5)|
+|2017.02.03(토)|(Keras) Part 4 레시피 따라해보기 (1) |이상열||
+||(Android) 05 앱 장터, Play 스토어에 앱 등록하기 |김승욱||
+||(딥러닝 이론) 로드맵 논문 리뷰 |설아라|[발표자료](https://github.com/KaggleBreak/ohkerasstra/tree/master/deeplearning/study5)|
+

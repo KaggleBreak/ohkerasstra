@@ -34,6 +34,6 @@
 |2017.01.20(토)|(Keras) Part 3 레이어 개념잡기 (2) |김승욱||
 ||(딥러닝 이론) 로드맵 논문 리뷰 |설아라|[발표자료](https://github.com/KaggleBreak/ohkerasstra/tree/master/deeplearning/study5)|
 |2017.02.03(토)|(Keras) Part 4 레시피 따라해보기 (1) |이상열|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/keras/04.recipe/04_%EB%A0%88%EC%8B%9C%ED%94%BC%EB%94%B0%EB%9D%BC%ED%95%B4%EB%B3%B4%EA%B8%B0.ipynb)|
-||(Android) 05 앱 장터, Play 스토어에 앱 등록하기 |김승욱||
+||(Android) 05 앱 장터, Play 스토어에 앱 등록하기 |김승욱|[발표자료](https://github.com/KaggleBreak/ohkerasstra/blob/master/android/chap5/OKarastra_Android_ch05_%EA%B9%80%EC%8A%B9%EC%9A%B1_180203.pptx)|
 ||(딥러닝 이론) 로드맵 논문 리뷰 |설아라|[발표자료](https://github.com/KaggleBreak/ohkerasstra/tree/master/deeplearning/study5)|
 
